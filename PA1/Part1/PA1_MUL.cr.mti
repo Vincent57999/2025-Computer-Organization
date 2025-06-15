@@ -1,0 +1,36 @@
+C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/CompMultiplier.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/CompMultiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module CompMultiplier
+
+Top level modules:
+	CompMultiplier
+
+} {} {}} C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/Multiplicand.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/Multiplicand.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module Multiplicand_Register
+
+Top level modules:
+	Multiplicand_Register
+
+} {} {}} C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/ALU.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/tb_CompMultiplier.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/tb_CompMultiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module tb_CompMultiplier
+
+Top level modules:
+	tb_CompMultiplier
+
+} {} {}} C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/Product.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/Product.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module Product_Register
+
+Top level modules:
+	Product_Register
+
+} {} {}}
