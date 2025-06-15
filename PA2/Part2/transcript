@@ -1,0 +1,34 @@
+# Compile of DM.v was successful.
+vsim -gui work.tb_I_FormatCPU
+# vsim -gui work.tb_I_FormatCPU 
+# Start time: 18:58:35 on May 02,2025
+# Loading work.tb_I_FormatCPU
+# Loading work.I_FormatCPU
+# Loading work.IM
+# Loading work.RF
+# Loading work.DM
+# Loading work.Adder
+# Loading work.ALU_control
+# Loading work.ALU
+# Loading work.control
+add wave -position insertpoint sim:/tb_I_FormatCPU/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: user  Hostname: MSI  ProcessID: 24752
+#           Attempting to use alternate WLF file "./wlftt7akms".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftt7akms
+run -all
+#    /\_/\   /\_/\   /\_/\    Congratulations !
+#   ( o.o ) ( -.- ) ( ^_^ )   Please Check <<RF.out>><<DM.out>>
+#    > ^ <   > ^ <   > ^ <    Wishing you continued success and happiness.  By ESSLab
+# 
+# ** Note: $stop    : C:/Users/user/Desktop/3D/PA2/Templates/Part2/tb_I_FormatCPU.v(151)
+#    Time: 630 ns  Iteration: 1  Instance: /tb_I_FormatCPU
+# Break in NamedBeginStat StimuliProcess at C:/Users/user/Desktop/3D/PA2/Templates/Part2/tb_I_FormatCPU.v line 151
+# ** Error: ¦¨³©¡
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA2/Templates/Part2/PA2_part2.mpf).  File can not be renamed.
+# ** Error: ¦¨³©¡
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA2/Templates/Part2/PA2_part2.mpf).  File can not be renamed.
+# End time: 19:00:02 on May 02,2025, Elapsed time: 0:01:27
+# Errors: 2, Warnings: 4
+# Closing project C:/Users/user/Desktop/3D/PA2/Templates/Part2/PA2_part2.mpf
