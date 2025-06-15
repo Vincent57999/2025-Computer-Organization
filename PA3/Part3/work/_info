@@ -1,0 +1,353 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/user/Desktop/3D/PA3/Templates/Part2
+vAdder
+Z0 !s110 1748269991
+!i10b 1
+!s100 g@6NbCgg<Y<Uh5KUUaD@h3
+I@G7]WIZP2aADW@cbo>QLK3
+Z1 dC:/Users/user/Desktop/3D/PA3/Templates/Part3
+w1745596209
+8C:/Users/user/Desktop/3D/PA3/Templates/Part3/Adder.v
+FC:/Users/user/Desktop/3D/PA3/Templates/Part3/Adder.v
+!i122 108
+L0 1 6
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1748269991.000000
+!s107 C:/Users/user/Desktop/3D/PA3/Templates/Part3/Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA3/Templates/Part3/Adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@adder
+vALU
+R0
+!i10b 1
+!s100 n3boCHjjB^IkaHH6W[?6?1
+Iz^zhjW>XHhD[=3;i?_33Z3
+R1
+w1748015496
+8C:/Users/user/Desktop/3D/PA3/Templates/Part3/ALU.v
+FC:/Users/user/Desktop/3D/PA3/Templates/Part3/ALU.v
+!i122 109
+L0 1 16
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/3D/PA3/Templates/Part3/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA3/Templates/Part3/ALU.v|
+!i113 1
+R5
+R6
+n@a@l@u
+vALU_control
+R0
+!i10b 1
+!s100 dlT60[mWX;6:96h<?<AZV2
+II3h^j=GW`=:0z=7J6MkOz0
+R1
+w1747562901
+8C:/Users/user/Desktop/3D/PA3/Templates/Part3/ALU_contral.v
+FC:/Users/user/Desktop/3D/PA3/Templates/Part3/ALU_contral.v
+!i122 110
+L0 1 31
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/3D/PA3/Templates/Part3/ALU_contral.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA3/Templates/Part3/ALU_contral.v|
+!i113 1
+R5
+R6
+n@a@l@u_control
+vcontrol
+R0
+!i10b 1
+!s100 o5ANj[W9aeIf^:35zkbmb2
+I<X?_eB0igTWQQNP:0jn031
+R1
+w1747562889
+8C:/Users/user/Desktop/3D/PA3/Templates/Part3/control.v
+FC:/Users/user/Desktop/3D/PA3/Templates/Part3/control.v
+!i122 111
+L0 1 56
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/3D/PA3/Templates/Part3/control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA3/Templates/Part3/control.v|
+!i113 1
+R5
+R6
+vDM
+Z7 !s110 1748269992
+!i10b 1
+!s100 XScEQnCXPMRUji>D0::>Y1
+IL`e<819co5Xa77SJCV=500
+R1
+w1747480272
+8C:/Users/user/Desktop/3D/PA3/Templates/Part3/DM.v
+FC:/Users/user/Desktop/3D/PA3/Templates/Part3/DM.v
+!i122 112
+Z8 L0 35 26
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/3D/PA3/Templates/Part3/DM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA3/Templates/Part3/DM.v|
+!i113 1
+R5
+R6
+n@d@m
+vFinalCPU
+R7
+!i10b 1
+!s100 Jk<J[7F1DzI=`nQoNe?kX3
+I[08AWb6QDg>OekcF_NbOD1
+R1
+w1748269250
+8C:/Users/user/Desktop/3D/PA3/Templates/Part3/FinalCPU.v
+FC:/Users/user/Desktop/3D/PA3/Templates/Part3/FinalCPU.v
+!i122 113
+L0 29 219
+R2
+R3
+r1
+!s85 0
+31
+Z9 !s108 1748269992.000000
+!s107 C:/Users/user/Desktop/3D/PA3/Templates/Part3/FinalCPU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA3/Templates/Part3/FinalCPU.v|
+!i113 1
+R5
+R6
+n@final@c@p@u
+vforwarding_unit
+R7
+!i10b 1
+!s100 <zH91bXDDY?0l1_7eA^iK3
+IzCM@;K`<dQ5lW<SzWm?kH2
+R1
+w1748269239
+8C:/Users/user/Desktop/3D/PA3/Templates/Part3/forwarding_unit.v
+FC:/Users/user/Desktop/3D/PA3/Templates/Part3/forwarding_unit.v
+!i122 117
+L0 1 29
+R2
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/user/Desktop/3D/PA3/Templates/Part3/forwarding_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA3/Templates/Part3/forwarding_unit.v|
+!i113 1
+R5
+R6
+vhazard_detection_unit
+R7
+!i10b 1
+!s100 KjZ@7MKnmQY=cY0S78f]90
+I1Dcn7h_IonS9T]dTkTcQ83
+R1
+w1747562709
+8C:/Users/user/Desktop/3D/PA3/Templates/Part3/hazard_detection_unit.v
+FC:/Users/user/Desktop/3D/PA3/Templates/Part3/hazard_detection_unit.v
+!i122 118
+L0 1 17
+R2
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/user/Desktop/3D/PA3/Templates/Part3/hazard_detection_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA3/Templates/Part3/hazard_detection_unit.v|
+!i113 1
+R5
+R6
+vIM
+R7
+!i10b 1
+!s100 TiTzWIljH03Hh9_NPF_fV0
+IMm;5Kz]0R1mJcCD9RkoHJ0
+R1
+w1747472073
+8C:/Users/user/Desktop/3D/PA3/Templates/Part3/IM.v
+FC:/Users/user/Desktop/3D/PA3/Templates/Part3/IM.v
+!i122 114
+L0 35 19
+R2
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/user/Desktop/3D/PA3/Templates/Part3/IM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA3/Templates/Part3/IM.v|
+!i113 1
+R5
+R6
+n@i@m
+vreg_EX_MEM
+Z10 !s110 1748269993
+!i10b 1
+!s100 1WkSkV9^J^NR^?a0_E9NB3
+IRDzHCcJno:HXVRM66P6MR2
+R1
+w1747570439
+8C:/Users/user/Desktop/3D/PA3/Templates/Part3/reg_EX_MEM.v
+FC:/Users/user/Desktop/3D/PA3/Templates/Part3/reg_EX_MEM.v
+!i122 121
+Z11 L0 1 19
+R2
+R3
+r1
+!s85 0
+31
+Z12 !s108 1748269993.000000
+!s107 C:/Users/user/Desktop/3D/PA3/Templates/Part3/reg_EX_MEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA3/Templates/Part3/reg_EX_MEM.v|
+!i113 1
+R5
+R6
+nreg_@e@x_@m@e@m
+vreg_ID_EX
+R10
+!i10b 1
+!s100 Q?R=`Co5QR:GJn93E79l82
+IMAT291hb8ZQAPfnIz[aB93
+R1
+w1747569203
+8C:/Users/user/Desktop/3D/PA3/Templates/Part3/reg_ID_EX.v
+FC:/Users/user/Desktop/3D/PA3/Templates/Part3/reg_ID_EX.v
+!i122 120
+L0 1 23
+R2
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/user/Desktop/3D/PA3/Templates/Part3/reg_ID_EX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA3/Templates/Part3/reg_ID_EX.v|
+!i113 1
+R5
+R6
+nreg_@i@d_@e@x
+vreg_IF_ID
+R7
+!i10b 1
+!s100 =0F:hoMe3HS=^d4<6E1PA3
+IW;jIRo@G8dIbnXAdnkIik3
+R1
+w1747569032
+8C:/Users/user/Desktop/3D/PA3/Templates/Part3/reg_IF_ID.v
+FC:/Users/user/Desktop/3D/PA3/Templates/Part3/reg_IF_ID.v
+!i122 119
+L0 1 10
+R2
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/user/Desktop/3D/PA3/Templates/Part3/reg_IF_ID.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA3/Templates/Part3/reg_IF_ID.v|
+!i113 1
+R5
+R6
+nreg_@i@f_@i@d
+vreg_MEM_WB
+R10
+!i10b 1
+!s100 URhU>S?n=B<@3;d;EAj@@1
+I@Uf:ZSPTPTVZc6hY<[W=a2
+R1
+w1747569968
+8C:/Users/user/Desktop/3D/PA3/Templates/Part3/reg_MEM_WB.v
+FC:/Users/user/Desktop/3D/PA3/Templates/Part3/reg_MEM_WB.v
+!i122 122
+R11
+R2
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/user/Desktop/3D/PA3/Templates/Part3/reg_MEM_WB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA3/Templates/Part3/reg_MEM_WB.v|
+!i113 1
+R5
+R6
+nreg_@m@e@m_@w@b
+vRF
+R7
+!i10b 1
+!s100 AE0b1Ceg3l84ed<]C9DMG3
+IhVzKef8i191cn@oW5Xizf2
+R1
+w1747473332
+8C:/Users/user/Desktop/3D/PA3/Templates/Part3/RF.v
+FC:/Users/user/Desktop/3D/PA3/Templates/Part3/RF.v
+!i122 115
+R8
+R2
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/user/Desktop/3D/PA3/Templates/Part3/RF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA3/Templates/Part3/RF.v|
+!i113 1
+R5
+R6
+n@r@f
+vtb_FinalCPU
+R7
+!i10b 1
+!s100 SWokk=1fg09Ef1GKZhD5>2
+IBn>knYPCAH<HhBLOCQV5]3
+R1
+w1747129207
+8C:/Users/user/Desktop/3D/PA3/Templates/Part3/tb_FinalCPU.v
+FC:/Users/user/Desktop/3D/PA3/Templates/Part3/tb_FinalCPU.v
+!i122 116
+L0 49 107
+R2
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/user/Desktop/3D/PA3/Templates/Part3/tb_FinalCPU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA3/Templates/Part3/tb_FinalCPU.v|
+!i113 1
+R5
+R6
+ntb_@final@c@p@u
