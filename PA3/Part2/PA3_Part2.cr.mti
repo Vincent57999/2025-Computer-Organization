@@ -1,0 +1,50 @@
+C:/Users/user/Desktop/3D/PA3/Templates/Part2/DM.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/PA3/Templates/Part2/DM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module DM
+
+Top level modules:
+	DM
+
+} {} {}} C:/Users/user/Desktop/3D/PA3/Templates/Part2/control.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/PA3/Templates/Part2/control.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module control
+
+Top level modules:
+	control
+
+} {} {}} C:/Users/user/Desktop/3D/PA3/Templates/Part2/I_PipelineCPU.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/PA3/Templates/Part2/I_PipelineCPU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module I_PipelineCPU
+
+Top level modules:
+	I_PipelineCPU
+
+} {} {}} C:/Users/user/Desktop/3D/PA3/Templates/Part2/IM.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/PA3/Templates/Part2/IM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module IM
+
+Top level modules:
+	IM
+
+} {} {}} C:/Users/user/Desktop/3D/PA3/Templates/Part2/tb_I_PipelineCPU.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/PA3/Templates/Part2/tb_I_PipelineCPU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module tb_I_PipelineCPU
+
+Top level modules:
+	tb_I_PipelineCPU
+
+} {} {}} C:/Users/user/Desktop/3D/PA3/Templates/Part2/RF.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/PA3/Templates/Part2/RF.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module RF
+
+Top level modules:
+	RF
+
+} {} {}} C:/Users/user/Desktop/3D/PA3/Templates/Part2/Adder.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/PA3/Templates/Part2/Adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}}
