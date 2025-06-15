@@ -1,0 +1,194 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/user/Desktop/3D/DDD
+vAdder
+Z0 !s110 1745935181
+!i10b 1
+!s100 YbLG2dlX7=Lh`EJ[>PID11
+IKIhoQ;=nWFUM>n>iS;X9m1
+Z1 dC:/Users/user/Desktop/3D/PA2/Templates/Part1
+w1745413775
+8C:/Users/user/Desktop/3D/PA2/Templates/Part1/Adder.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part1/Adder.v
+!i122 18
+L0 1 6
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1745935181.000000
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part1/Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part1/Adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@adder
+vALU
+R0
+!i10b 1
+!s100 n3boCHjjB^IkaHH6W[?6?1
+I_4d?zlkYlZ=6FKGC4BD<d2
+R1
+w1745415551
+8C:/Users/user/Desktop/3D/PA2/Templates/Part1/ALU.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part1/ALU.v
+!i122 17
+Z7 L0 1 16
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part1/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part1/ALU.v|
+!i113 1
+R5
+R6
+n@a@l@u
+vALU_control
+R0
+!i10b 1
+!s100 bWNEFAmlVeUTI6J`l`eY60
+I^FPE3I>df5ZRLIfNSb<T;0
+R1
+w1745415161
+8C:/Users/user/Desktop/3D/PA2/Templates/Part1/ALU_contral.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part1/ALU_contral.v
+!i122 16
+L0 1 17
+R2
+R3
+r1
+!s85 0
+31
+Z8 !s108 1745935180.000000
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part1/ALU_contral.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part1/ALU_contral.v|
+!i113 1
+R5
+R6
+n@a@l@u_control
+vcontrol
+Z9 !s110 1745935180
+!i10b 1
+!s100 94CiAB6H@El9?XF@;H6`B3
+I48^W?W74_Q`gZEo6imR9d2
+R1
+w1745417467
+8C:/Users/user/Desktop/3D/PA2/Templates/Part1/control.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part1/control.v
+!i122 15
+R7
+R2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part1/control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part1/control.v|
+!i113 1
+R5
+R6
+vIM
+R9
+!i10b 1
+!s100 Az:FI8d;=U6LB80lE@e`e3
+IWnc:IKgic[TaTL``A]9cd0
+R1
+w1745679655
+8C:/Users/user/Desktop/3D/PA2/Templates/Part1/IM.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part1/IM.v
+!i122 11
+L0 35 20
+R2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part1/IM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part1/IM.v|
+!i113 1
+R5
+R6
+n@i@m
+vR_FormatCPU
+R9
+!i10b 1
+!s100 C9><il9[`7?zI5Abb32Fo1
+IUbk=bDbUf2zlmkRDG4hJR0
+R1
+w1745681677
+8C:/Users/user/Desktop/3D/PA2/Templates/Part1/R_FormatCPU.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part1/R_FormatCPU.v
+!i122 12
+L0 29 75
+R2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part1/R_FormatCPU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part1/R_FormatCPU.v|
+!i113 1
+R5
+R6
+n@r_@format@c@p@u
+vRF
+R9
+!i10b 1
+!s100 6I6AH_O]i0JIbj=YkY:Ue2
+I5mT5WjMfZhAglAL@2W>9S1
+R1
+w1745679470
+8C:/Users/user/Desktop/3D/PA2/Templates/Part1/RF.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part1/RF.v
+!i122 13
+L0 35 25
+R2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part1/RF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part1/RF.v|
+!i113 1
+R5
+R6
+n@r@f
+vtb_R_FormatCPU
+!s110 1745935349
+!i10b 1
+!s100 mMZE<9X4mcaP8TJ^m?QaY0
+Ig]b]5[EWehUFOZHm@4_i?0
+R1
+w1745935335
+8C:/Users/user/Desktop/3D/PA2/Templates/Part1/tb_R_FormatCPU.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part1/tb_R_FormatCPU.v
+!i122 19
+L0 45 88
+R2
+R3
+r1
+!s85 0
+31
+!s108 1745935349.000000
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part1/tb_R_FormatCPU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part1/tb_R_FormatCPU.v|
+!i113 1
+R5
+R6
+ntb_@r_@format@c@p@u
