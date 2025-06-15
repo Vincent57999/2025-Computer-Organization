@@ -1,0 +1,217 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/user/Desktop/3D/PA3/Templates/Part1
+vAdder
+!s110 1748006129
+!i10b 1
+!s100 g@6NbCgg<Y<Uh5KUUaD@h3
+IYkWc`UT@o48?g@PDb4giP1
+Z0 dC:/Users/user/Desktop/3D/PA3/Templates/Part2
+w1745596209
+8C:/Users/user/Desktop/3D/PA3/Templates/Part2/Adder.v
+FC:/Users/user/Desktop/3D/PA3/Templates/Part2/Adder.v
+!i122 21
+L0 1 6
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z3 !s108 1748006129.000000
+!s107 C:/Users/user/Desktop/3D/PA3/Templates/Part2/Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA3/Templates/Part2/Adder.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@adder
+vALU
+Z6 !s110 1748006130
+!i10b 1
+!s100 ;XN=c2N3;c4T^[6OM;oL73
+IWjT1>FA56M@>_eIKHcZ3o3
+R0
+w1748006121
+8C:/Users/user/Desktop/3D/PA3/Templates/Part2/ALU.v
+FC:/Users/user/Desktop/3D/PA3/Templates/Part2/ALU.v
+!i122 22
+L0 1 27
+R1
+R2
+r1
+!s85 0
+31
+R3
+!s107 C:/Users/user/Desktop/3D/PA3/Templates/Part2/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA3/Templates/Part2/ALU.v|
+!i113 1
+R4
+R5
+n@a@l@u
+vALU_control
+R6
+!i10b 1
+!s100 mHD^0;zP21o7dPGlnPE>D1
+IaBl9YJ16AfA61]fYJe=Ff1
+R0
+w1747472150
+8C:/Users/user/Desktop/3D/PA3/Templates/Part2/ALU_contral.v
+FC:/Users/user/Desktop/3D/PA3/Templates/Part2/ALU_contral.v
+!i122 23
+L0 1 51
+R1
+R2
+r1
+!s85 0
+31
+Z7 !s108 1748006130.000000
+!s107 C:/Users/user/Desktop/3D/PA3/Templates/Part2/ALU_contral.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA3/Templates/Part2/ALU_contral.v|
+!i113 1
+R4
+R5
+n@a@l@u_control
+vcontrol
+R6
+!i10b 1
+!s100 o5ANj[W9aeIf^:35zkbmb2
+I<hVb]1SaTK8<3^O2U:fIn1
+R0
+w1747562889
+8C:/Users/user/Desktop/3D/PA3/Templates/Part2/control.v
+FC:/Users/user/Desktop/3D/PA3/Templates/Part2/control.v
+!i122 24
+L0 1 56
+R1
+R2
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/3D/PA3/Templates/Part2/control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA3/Templates/Part2/control.v|
+!i113 1
+R4
+R5
+vDM
+R6
+!i10b 1
+!s100 XScEQnCXPMRUji>D0::>Y1
+I3baPP=CV>gk<A7HDKB]Hb1
+R0
+w1747480272
+8C:/Users/user/Desktop/3D/PA3/Templates/Part2/DM.v
+FC:/Users/user/Desktop/3D/PA3/Templates/Part2/DM.v
+!i122 25
+Z8 L0 35 26
+R1
+R2
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/3D/PA3/Templates/Part2/DM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA3/Templates/Part2/DM.v|
+!i113 1
+R4
+R5
+n@d@m
+vI_PipelineCPU
+R6
+!i10b 1
+!s100 GWc^cCg[b?9@bERoQ90:k3
+IX?m:mgoCN;2_lL`I3IX7P0
+R0
+w1748006078
+8C:/Users/user/Desktop/3D/PA3/Templates/Part2/I_PipelineCPU.v
+FC:/Users/user/Desktop/3D/PA3/Templates/Part2/I_PipelineCPU.v
+!i122 26
+L0 29 144
+R1
+R2
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/3D/PA3/Templates/Part2/I_PipelineCPU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA3/Templates/Part2/I_PipelineCPU.v|
+!i113 1
+R4
+R5
+n@i_@pipeline@c@p@u
+vIM
+R6
+!i10b 1
+!s100 TiTzWIljH03Hh9_NPF_fV0
+IRWe7840>_BDDge>CmT:kG3
+R0
+w1747472073
+8C:/Users/user/Desktop/3D/PA3/Templates/Part2/IM.v
+FC:/Users/user/Desktop/3D/PA3/Templates/Part2/IM.v
+!i122 27
+L0 35 19
+R1
+R2
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/3D/PA3/Templates/Part2/IM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA3/Templates/Part2/IM.v|
+!i113 1
+R4
+R5
+n@i@m
+vRF
+R6
+!i10b 1
+!s100 AE0b1Ceg3l84ed<]C9DMG3
+IY<l6b@`Loj_]KNoW_hjgN0
+R0
+w1747473332
+8C:/Users/user/Desktop/3D/PA3/Templates/Part2/RF.v
+FC:/Users/user/Desktop/3D/PA3/Templates/Part2/RF.v
+!i122 28
+R8
+R1
+R2
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/3D/PA3/Templates/Part2/RF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA3/Templates/Part2/RF.v|
+!i113 1
+R4
+R5
+n@r@f
+vtb_I_PipelineCPU
+R6
+!i10b 1
+!s100 87T16[;gGDfnMS620`9fW2
+Iz:6iY6dlB;=9nd9[nWAL41
+R0
+w1747129206
+8C:/Users/user/Desktop/3D/PA3/Templates/Part2/tb_I_PipelineCPU.v
+FC:/Users/user/Desktop/3D/PA3/Templates/Part2/tb_I_PipelineCPU.v
+!i122 29
+L0 49 105
+R1
+R2
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/3D/PA3/Templates/Part2/tb_I_PipelineCPU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA3/Templates/Part2/tb_I_PipelineCPU.v|
+!i113 1
+R4
+R5
+ntb_@i_@pipeline@c@p@u
