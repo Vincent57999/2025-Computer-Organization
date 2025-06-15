@@ -1,0 +1,149 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1
+vALU
+Z0 !s110 1743135859
+!i10b 1
+!s100 9LhlA8PL@@O]FEXPUAb2Q2
+IDJfRJhNz?1GUFCgYnV[PT2
+Z1 dC:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2
+w1743135839
+8C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/ALU.v
+FC:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/ALU.v
+!i122 72
+L0 1 18
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1743135859.000000
+!s107 C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/ALU.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@l@u
+vCompDivider
+R0
+!i10b 1
+!s100 IzRTFli0zUU90K4_7dKcI3
+IN@<WU;Ojk6a3_nf_CcWfH1
+R1
+w1743135835
+8C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/CompDivider.v
+FC:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/CompDivider.v
+!i122 69
+L0 1 49
+R2
+R3
+r1
+!s85 0
+31
+!s108 1743135858.000000
+!s107 C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/CompDivider.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/CompDivider.v|
+!i113 1
+R5
+R6
+n@comp@divider
+vControl
+R0
+!i10b 1
+!s100 ?2FOGg9X6N5m=IRP6RO0K0
+I8S@UQLPmId@ki@P;2bHL73
+R1
+w1743135843
+8C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/Control.v
+FC:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/Control.v
+!i122 74
+L0 1 36
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/Control.v|
+!i113 1
+R5
+R6
+n@control
+vDivisor_Register
+R0
+!i10b 1
+!s100 PG:XXP68iIQ0ETmZ;?bM_3
+IZWhC`CWZ>XMS^CZdQ9W:12
+R1
+w1743135846
+8C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/Divisor.v
+FC:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/Divisor.v
+!i122 71
+L0 1 19
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/Divisor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/Divisor.v|
+!i113 1
+R5
+R6
+n@divisor_@register
+vRemainder_Register
+!s110 1743265489
+!i10b 1
+!s100 VY=CQ:CU9N0QBAgfQ^K4>3
+IETL:0Zig:5>c`90idl4c_1
+R1
+w1743265480
+8C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/Remainder.v
+FC:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/Remainder.v
+!i122 75
+L0 1 27
+R2
+R3
+r1
+!s85 0
+31
+!s108 1743265489.000000
+!s107 C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/Remainder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/Remainder.v|
+!i113 1
+R5
+R6
+n@remainder_@register
+vtb_CompDivider
+R0
+!i10b 1
+!s100 6e=U2g21=M?Se9CNo4CF32
+IFgYY:N:PGj1U8kPSQDMm^3
+R1
+w1742288843
+8C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v
+FC:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v
+!i122 70
+L0 40 91
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v|
+!i113 1
+R5
+R6
+ntb_@comp@divider
