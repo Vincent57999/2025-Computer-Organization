@@ -1,0 +1,43 @@
+C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/Control.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/Control.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/ALU.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/CompDivider.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/CompDivider.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module CompDivider
+
+Top level modules:
+	CompDivider
+
+} {} {}} C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/Remainder.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/Remainder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module Remainder_Register
+
+Top level modules:
+	Remainder_Register
+
+} {} {}} C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module tb_CompDivider
+
+Top level modules:
+	tb_CompDivider
+
+} {} {}} C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/Divisor.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/Divisor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module Divisor_Register
+
+Top level modules:
+	Divisor_Register
+
+} {} {}}

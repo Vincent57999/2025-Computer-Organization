@@ -1,0 +1,838 @@
+# Compile of CompDivider.v was successful.
+# Compile of tb_CompDivider.v was successful.
+# Compile of Divisor.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Remainder.v was successful.
+# Compile of Control.v was successful.
+# 6 compiles, 0 failed with no errors.
+vsim -gui work.tb_CompDivider
+# vsim -gui work.tb_CompDivider 
+# Start time: 20:37:27 on Mar 24,2025
+# Loading work.tb_CompDivider
+# Loading work.CompDivider
+# Loading work.Divisor_Register
+# Loading work.ALU
+# Loading work.Control
+# Loading work.Remainder_Register
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fscanf'.
+#    Time: 0 ns  Iteration: 0  Region: /tb_CompDivider/StimuliProcess File: C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v Line: 102
+add wave -position insertpoint sim:/tb_CompDivider/*
+add wave -position insertpoint sim:/tb_CompDivider/UUT/*
+add wave -position insertpoint sim:/tb_CompDivider/UUT/a1/*
+add wave -position insertpoint sim:/tb_CompDivider/UUT/c1/*
+add wave -position insertpoint sim:/tb_CompDivider/UUT/d1/*
+add wave -position insertpoint sim:/tb_CompDivider/UUT/r1/*
+run -all
+# Dividend:       100, Divisor:        33
+# Quotient:         3, Remainder:         1
+# Dividend:4294967295, Divisor:4294967295
+# Quotient:         1, Remainder:         0
+# Dividend:  11211379, Divisor:     38228
+# Quotient:       293, Remainder:     10575
+# Dividend:       149, Divisor:       149
+# Quotient:         1, Remainder:         0
+# Dividend:      2165, Divisor:       115
+# Quotient:        18, Remainder:        95
+# ** Note: $stop    : C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v(120)
+#    Time: 3800 ns  Iteration: 0  Instance: /tb_CompDivider
+# Break in NamedBeginStat StimuliProcess at C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v line 120
+vsim -gui work.tb_CompDivider
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# End time: 18:19:15 on Mar 25,2025, Elapsed time: 21:41:48
+# Errors: 2, Warnings: 7
+# vsim -gui work.tb_CompDivider 
+# Start time: 18:19:17 on Mar 25,2025
+# Loading work.tb_CompDivider
+# Loading work.CompDivider
+# Loading work.Divisor_Register
+# Loading work.ALU
+# Loading work.Control
+# Loading work.Remainder_Register
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fscanf'.
+#    Time: 0 ns  Iteration: 0  Region: /tb_CompDivider/StimuliProcess File: C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v Line: 102
+add wave -position insertpoint sim:/tb_CompDivider/*
+run -all
+# Dividend:       100, Divisor:        33
+# Quotient:         3, Remainder:         1
+# Dividend:4294967295, Divisor:4294967295
+# Quotient:         1, Remainder:         0
+# Dividend:  11211379, Divisor:     38228
+# Quotient:       293, Remainder:     10575
+# Dividend:       149, Divisor:       149
+# Quotient:         1, Remainder:         0
+# Dividend:      2165, Divisor:       115
+# Quotient:        18, Remainder:        95
+# Dividend:         5, Divisor:        20
+# Quotient:         0, Remainder:         5
+# Dividend:         1, Divisor:4294967295
+# Quotient:         0, Remainder:         1
+# ** Note: $stop    : C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v(120)
+#    Time: 5320 ns  Iteration: 0  Instance: /tb_CompDivider
+# Break in NamedBeginStat StimuliProcess at C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v line 120
+vsim -gui work.tb_CompDivider
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# End time: 18:19:58 on Mar 25,2025, Elapsed time: 0:00:41
+# Errors: 2, Warnings: 2
+# vsim -gui work.tb_CompDivider 
+# Start time: 18:19:58 on Mar 25,2025
+# Loading work.tb_CompDivider
+# Loading work.CompDivider
+# Loading work.Divisor_Register
+# Loading work.ALU
+# Loading work.Control
+# Loading work.Remainder_Register
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fscanf'.
+#    Time: 0 ns  Iteration: 0  Region: /tb_CompDivider/StimuliProcess File: C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v Line: 102
+add wave -position insertpoint sim:/tb_CompDivider/*
+run -all
+# Dividend:       100, Divisor:        33
+# Quotient:         3, Remainder:         1
+# Dividend:4294967295, Divisor:4294967295
+# Quotient:         1, Remainder:         0
+# Dividend:  11211379, Divisor:     38228
+# Quotient:       293, Remainder:     10575
+# Dividend:       149, Divisor:       149
+# Quotient:         1, Remainder:         0
+# Dividend:      2165, Divisor:       115
+# Quotient:        18, Remainder:        95
+# Dividend:         5, Divisor:        20
+# Quotient:         0, Remainder:         5
+# Dividend:4294967294, Divisor:4294967295
+# Quotient:         0, Remainder:2147483646
+# ** Note: $stop    : C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v(120)
+#    Time: 5320 ns  Iteration: 0  Instance: /tb_CompDivider
+# Break in NamedBeginStat StimuliProcess at C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v line 120
+vsim -gui work.tb_CompDivider
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# End time: 18:21:24 on Mar 25,2025, Elapsed time: 0:01:26
+# Errors: 2, Warnings: 2
+# vsim -gui work.tb_CompDivider 
+# Start time: 18:21:24 on Mar 25,2025
+# Loading work.tb_CompDivider
+# Loading work.CompDivider
+# Loading work.Divisor_Register
+# Loading work.ALU
+# Loading work.Control
+# Loading work.Remainder_Register
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fscanf'.
+#    Time: 0 ns  Iteration: 0  Region: /tb_CompDivider/StimuliProcess File: C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v Line: 102
+add wave -position insertpoint sim:/tb_CompDivider/*
+run -all
+# Dividend:       100, Divisor:        33
+# Quotient:         3, Remainder:         1
+# Dividend:4294967295, Divisor:4294967295
+# Quotient:         1, Remainder:         0
+# Dividend:  11211379, Divisor:     38228
+# Quotient:       293, Remainder:     10575
+# Dividend:       149, Divisor:       149
+# Quotient:         1, Remainder:         0
+# Dividend:      2165, Divisor:       115
+# Quotient:        18, Remainder:        95
+# Dividend:         5, Divisor:        20
+# Quotient:         0, Remainder:         5
+# Dividend:     65534, Divisor:4294967295
+# Quotient:         0, Remainder:     65534
+# ** Note: $stop    : C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v(120)
+#    Time: 5320 ns  Iteration: 0  Instance: /tb_CompDivider
+# Break in NamedBeginStat StimuliProcess at C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v line 120
+# Compile of CompDivider.v was successful.
+# Compile of CompDivider.v was successful.
+# Compile of tb_CompDivider.v was successful.
+# Compile of Divisor.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Remainder.v was successful.
+# Compile of Control.v was successful.
+# 6 compiles, 0 failed with no errors.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# Compile of tb_CompDivider.v was successful.
+# Compile of Divisor.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Remainder.v was successful.
+# Compile of Control.v was successful.
+# 6 compiles, 0 failed with no errors.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+vsim -gui work.tb_CompDivider
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# End time: 11:17:07 on Mar 28,2025, Elapsed time: 64:55:43
+# Errors: 6, Warnings: 4
+# vsim -gui work.tb_CompDivider 
+# Start time: 11:17:09 on Mar 28,2025
+# Loading work.tb_CompDivider
+# Loading work.CompDivider
+# Loading work.Divisor_Register
+# Loading work.ALU
+# Loading work.Control
+# Loading work.Remainder_Register
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fscanf'.
+#    Time: 0 ns  Iteration: 0  Region: /tb_CompDivider/StimuliProcess File: C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v Line: 102
+add wave -position insertpoint sim:/tb_CompDivider/*
+run -all
+# Dividend:       100, Divisor:        33
+# Quotient:4294967295, Remainder:         X
+# Dividend:4294967295, Divisor:4294967295
+# Quotient:4294967295, Remainder:         X
+# Dividend:  11211379, Divisor:     38228
+# Quotient:4294967295, Remainder:         X
+# Dividend:       149, Divisor:       149
+# Quotient:4294967295, Remainder:         X
+# Dividend:      2165, Divisor:       115
+# Quotient:4294967295, Remainder:         X
+# Dividend:         5, Divisor:        20
+# Quotient:4294967295, Remainder:         X
+# Dividend:     65534, Divisor:4294967295
+# Quotient:4294967295, Remainder:         X
+# ** Note: $stop    : C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v(120)
+#    Time: 5320 ns  Iteration: 0  Instance: /tb_CompDivider
+# Break in NamedBeginStat StimuliProcess at C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v line 120
+# Compile of CompDivider.v was successful.
+# Compile of tb_CompDivider.v was successful.
+# Compile of Divisor.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Remainder.v was successful.
+# Compile of Control.v was successful.
+# 6 compiles, 0 failed with no errors.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+run -all
+# ** Note: $stop    : C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v(120)
+#    Time: 5330 ns  Iteration: 0  Instance: /tb_CompDivider
+# Break in NamedBeginStat StimuliProcess at C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v line 120
+vsim -gui work.tb_CompDivider
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# End time: 11:18:16 on Mar 28,2025, Elapsed time: 0:01:07
+# Errors: 4, Warnings: 3
+# vsim -gui work.tb_CompDivider 
+# Start time: 11:18:16 on Mar 28,2025
+# Loading work.tb_CompDivider
+# Loading work.CompDivider
+# Loading work.Divisor_Register
+# Loading work.ALU
+# Loading work.Control
+# Loading work.Remainder_Register
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fscanf'.
+#    Time: 0 ns  Iteration: 0  Region: /tb_CompDivider/StimuliProcess File: C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v Line: 102
+add wave -position insertpoint sim:/tb_CompDivider/*
+run -all
+# Dividend:       100, Divisor:        33
+# Quotient:         3, Remainder:         1
+# Dividend:4294967295, Divisor:4294967295
+# Quotient:         1, Remainder:         0
+# Dividend:  11211379, Divisor:     38228
+# Quotient:       293, Remainder:     10575
+# Dividend:       149, Divisor:       149
+# Quotient:         1, Remainder:         0
+# Dividend:      2165, Divisor:       115
+# Quotient:        18, Remainder:        95
+# Dividend:         5, Divisor:        20
+# Quotient:         0, Remainder:         5
+# Dividend:     65534, Divisor:4294967295
+# Quotient:         0, Remainder:     65534
+# ** Note: $stop    : C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v(120)
+#    Time: 5320 ns  Iteration: 0  Instance: /tb_CompDivider
+# Break in NamedBeginStat StimuliProcess at C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v line 120
+# Compile of CompDivider.v was successful.
+# Compile of tb_CompDivider.v was successful.
+# Compile of Divisor.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Remainder.v was successful.
+# Compile of Control.v was successful.
+# 6 compiles, 0 failed with no errors.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+vsim -gui work.tb_CompDivider
+# ** Error: ¶®≥©° 	^∫H slt_atrSπ: ropg n Pº¢ vle NEE
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©° 
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# End time: 11:21:00 on Mar 28,2025, Elapsed time: 0:02:44
+# Errors: 4, Warnings: 3
+# vsim -gui work.tb_CompDivider 
+# Start time: 11:21:00 on Mar 28,2025
+# Loading work.tb_CompDivider
+# Loading work.CompDivider
+# Loading work.Divisor_Register
+# Loading work.ALU
+# Loading work.Control
+# Loading work.Remainder_Register
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fscanf'.
+#    Time: 0 ns  Iteration: 0  Region: /tb_CompDivider/StimuliProcess File: C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v Line: 102
+add wave -position insertpoint sim:/tb_CompDivider/*
+run -all
+# Dividend:       100, Divisor:        33
+# Quotient:         3, Remainder:         1
+# Dividend:4294967295, Divisor:4294967295
+# Quotient:         1, Remainder:         0
+# Dividend:  11211379, Divisor:     38228
+# Quotient:       293, Remainder:     10575
+# Dividend:       149, Divisor:       149
+# Quotient:         1, Remainder:         0
+# Dividend:      2165, Divisor:       115
+# Quotient:        18, Remainder:        95
+# Dividend:         5, Divisor:        20
+# Quotient:         0, Remainder:         5
+# Dividend:     65534, Divisor:4294967295
+# Quotient:         0, Remainder:     65534
+# ** Note: $stop    : C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v(120)
+#    Time: 5320 ns  Iteration: 0  Instance: /tb_CompDivider
+# Break in NamedBeginStat StimuliProcess at C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v line 120
+# Compile of CompDivider.v was successful.
+# Compile of tb_CompDivider.v was successful.
+# Compile of Divisor.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Remainder.v was successful.
+# Compile of Control.v was successful.
+# 6 compiles, 0 failed with no errors.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+vsim -gui work.tb_CompDivider
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# End time: 11:25:13 on Mar 28,2025, Elapsed time: 0:04:13
+# Errors: 4, Warnings: 3
+# vsim -gui work.tb_CompDivider 
+# Start time: 11:25:13 on Mar 28,2025
+# Loading work.tb_CompDivider
+# Loading work.CompDivider
+# Loading work.Divisor_Register
+# Loading work.ALU
+# Loading work.Control
+# Loading work.Remainder_Register
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fscanf'.
+#    Time: 0 ns  Iteration: 0  Region: /tb_CompDivider/StimuliProcess File: C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v Line: 102
+add wave -position insertpoint sim:/tb_CompDivider/*
+run -all
+# Dividend:       100, Divisor:        33
+# Quotient:         3, Remainder:         1
+# Dividend:4294967295, Divisor:4294967295
+# Quotient:         1, Remainder:         0
+# Dividend:  11211379, Divisor:     38228
+# Quotient:       293, Remainder:     10575
+# Dividend:       149, Divisor:       149
+# Quotient:         1, Remainder:         0
+# Dividend:      2165, Divisor:       115
+# Quotient:        18, Remainder:        95
+# Dividend:         5, Divisor:        20
+# Quotient:         0, Remainder:         5
+# Dividend:     65534, Divisor:4294967295
+# Quotient:         0, Remainder:     65534
+# ** Note: $stop    : C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v(120)
+#    Time: 5320 ns  Iteration: 0  Instance: /tb_CompDivider
+# Break in NamedBeginStat StimuliProcess at C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v line 120
+# Compile of CompDivider.v was successful.
+# Compile of tb_CompDivider.v was successful.
+# Compile of Divisor.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Remainder.v was successful.
+# Compile of Control.v was successful.
+# 6 compiles, 0 failed with no errors.
+# ** Error: ¶®≥©° r 5r 
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+vsim -gui work.tb_CompDivider
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# End time: 11:43:09 on Mar 28,2025, Elapsed time: 0:17:56
+# Errors: 4, Warnings: 3
+# vsim -gui work.tb_CompDivider 
+# Start time: 11:43:10 on Mar 28,2025
+# Loading work.tb_CompDivider
+# Loading work.CompDivider
+# Loading work.Divisor_Register
+# Loading work.ALU
+# Loading work.Control
+# Loading work.Remainder_Register
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fscanf'.
+#    Time: 0 ns  Iteration: 0  Region: /tb_CompDivider/StimuliProcess File: C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v Line: 102
+add wave -position insertpoint sim:/tb_CompDivider/*
+run -all
+# Dividend:       100, Divisor:        33
+# Quotient:         3, Remainder:         1
+# Dividend:4294967295, Divisor:4294967295
+# Quotient:         0, Remainder:2147483647
+# Dividend:  11211379, Divisor:     38228
+# Quotient:       293, Remainder:     10575
+# Dividend:       149, Divisor:       149
+# Quotient:         0, Remainder:       149
+# Dividend:      2165, Divisor:       115
+# Quotient:        18, Remainder:        95
+# Dividend:         5, Divisor:        20
+# Quotient:         0, Remainder:         5
+# Dividend:     65534, Divisor:4294967295
+# Quotient:         0, Remainder:     65534
+# ** Note: $stop    : C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v(120)
+#    Time: 5320 ns  Iteration: 0  Instance: /tb_CompDivider
+# Break in NamedBeginStat StimuliProcess at C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v line 120
+# Compile of CompDivider.v was successful.
+# Compile of tb_CompDivider.v was successful.
+# Compile of Divisor.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Remainder.v was successful.
+# Compile of Control.v was successful.
+# 6 compiles, 0 failed with no errors.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+vsim -gui work.tb_CompDivider
+# ** Error: ¶®≥©° r^∫H smoi
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# End time: 11:44:41 on Mar 28,2025, Elapsed time: 0:01:31
+# Errors: 4, Warnings: 3
+# vsim -gui work.tb_CompDivider 
+# Start time: 11:44:41 on Mar 28,2025
+# Loading work.tb_CompDivider
+# Loading work.CompDivider
+# Loading work.Divisor_Register
+# Loading work.ALU
+# Loading work.Control
+# Loading work.Remainder_Register
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fscanf'.
+#    Time: 0 ns  Iteration: 0  Region: /tb_CompDivider/StimuliProcess File: C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v Line: 102
+add wave -position insertpoint sim:/tb_CompDivider/*
+run -all
+# Dividend:       100, Divisor:        33
+# Quotient:         3, Remainder:         1
+# Dividend:4294967295, Divisor:4294967295
+# Quotient:         1, Remainder:         0
+# Dividend:  11211379, Divisor:     38228
+# Quotient:       293, Remainder:     10575
+# Dividend:       149, Divisor:       149
+# Quotient:         1, Remainder:         0
+# Dividend:      2165, Divisor:       115
+# Quotient:        18, Remainder:        95
+# Dividend:         5, Divisor:        20
+# Quotient:         0, Remainder:         5
+# Dividend:     65534, Divisor:4294967295
+# Quotient:         0, Remainder:     65534
+# ** Note: $stop    : C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v(120)
+#    Time: 5320 ns  Iteration: 0  Instance: /tb_CompDivider
+# Break in NamedBeginStat StimuliProcess at C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v line 120
+# Compile of CompDivider.v was successful.
+# Compile of tb_CompDivider.v was successful.
+# Compile of Divisor.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Remainder.v was successful.
+# Compile of Control.v was successful.
+# 6 compiles, 0 failed with no errors.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+vsim -gui work.tb_CompDivider
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# End time: 11:45:42 on Mar 28,2025, Elapsed time: 0:01:01
+# Errors: 4, Warnings: 3
+# vsim -gui work.tb_CompDivider 
+# Start time: 11:45:42 on Mar 28,2025
+# Loading work.tb_CompDivider
+# Loading work.CompDivider
+# Loading work.Divisor_Register
+# Loading work.ALU
+# Loading work.Control
+# Loading work.Remainder_Register
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fscanf'.
+#    Time: 0 ns  Iteration: 0  Region: /tb_CompDivider/StimuliProcess File: C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v Line: 102
+add wave -position insertpoint sim:/tb_CompDivider/*
+run -all
+# Dividend:       100, Divisor:        33
+# Quotient:         3, Remainder:         1
+# Dividend:4294967295, Divisor:4294967295
+# Quotient:         1, Remainder:         0
+# Dividend:  11211379, Divisor:     38228
+# Quotient:       293, Remainder:     10575
+# Dividend:       149, Divisor:       149
+# Quotient:         1, Remainder:         0
+# Dividend:      2165, Divisor:       115
+# Quotient:        18, Remainder:        95
+# Dividend:         5, Divisor:        20
+# Quotient:         0, Remainder:         5
+# Dividend:     65534, Divisor:4294967295
+# Quotient:         0, Remainder:     65534
+# ** Note: $stop    : C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v(120)
+#    Time: 5320 ns  Iteration: 0  Instance: /tb_CompDivider
+# Break in NamedBeginStat StimuliProcess at C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v line 120
+# Compile of CompDivider.v was successful.
+# Compile of tb_CompDivider.v was successful.
+# Compile of Divisor.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Remainder.v was successful.
+# Compile of Control.v was successful.
+# 6 compiles, 0 failed with no errors.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+vsim -gui work.tb_CompDivider
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# End time: 11:54:02 on Mar 28,2025, Elapsed time: 0:08:20
+# Errors: 4, Warnings: 3
+# vsim -gui work.tb_CompDivider 
+# Start time: 11:54:02 on Mar 28,2025
+# Loading work.tb_CompDivider
+# Loading work.CompDivider
+# Loading work.Divisor_Register
+# Loading work.ALU
+# Loading work.Control
+# Loading work.Remainder_Register
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fscanf'.
+#    Time: 0 ns  Iteration: 0  Region: /tb_CompDivider/StimuliProcess File: C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v Line: 102
+add wave -position insertpoint sim:/tb_CompDivider/*
+run -all
+# Dividend:       100, Divisor:        33
+# Quotient:         3, Remainder:         1
+# Dividend:4294967295, Divisor:4294967295
+# Quotient:         1, Remainder:         0
+# Dividend:  11211379, Divisor:     38228
+# Quotient:       293, Remainder:     10575
+# Dividend:       149, Divisor:       149
+# Quotient:         1, Remainder:         0
+# Dividend:      2165, Divisor:       115
+# Quotient:        18, Remainder:        95
+# Dividend:         5, Divisor:        20
+# Quotient:         0, Remainder:         5
+# Dividend:     65534, Divisor:4294967295
+# Quotient:         0, Remainder:     65534
+# ** Note: $stop    : C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v(120)
+#    Time: 5320 ns  Iteration: 0  Instance: /tb_CompDivider
+# Break in NamedBeginStat StimuliProcess at C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v line 120
+# Compile of CompDivider.v was successful.
+# Compile of tb_CompDivider.v was successful.
+# Compile of Divisor.v was successful.
+# Compile of ALU.v was successful.
+# Compile of Remainder.v was successful.
+# Compile of Control.v was successful.
+# 6 compiles, 0 failed with no errors.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+vsim -gui work.tb_CompDivider
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# Errors: 8, Warnings: 2
+# vsim -gui work.tb_CompDivider 
+# Start time: 12:24:39 on Mar 28,2025
+# Loading work.tb_CompDivider
+# Loading work.CompDivider
+# Loading work.Divisor_Register
+# Loading work.ALU
+# Loading work.Control
+# Loading work.Remainder_Register
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fscanf'.
+#    Time: 0 ns  Iteration: 0  Region: /tb_CompDivider/StimuliProcess File: C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v Line: 102
+add wave -position insertpoint sim:/tb_CompDivider/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: user  Hostname: MSI  ProcessID: 16720
+#           Attempting to use alternate WLF file "./wlft1sv019".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft1sv019
+run -all
+# Dividend:       100, Divisor:        33
+# Quotient:         3, Remainder:         1
+# Dividend:4294967295, Divisor:4294967295
+# Quotient:         1, Remainder:         0
+# Dividend:  11211379, Divisor:     38228
+# Quotient:       293, Remainder:     10575
+# Dividend:       149, Divisor:       149
+# Quotient:         1, Remainder:         0
+# Dividend:      2165, Divisor:       115
+# Quotient:        18, Remainder:        95
+# Dividend:         5, Divisor:        20
+# Quotient:         0, Remainder:         5
+# Dividend:     65534, Divisor:4294967295
+# Quotient:         0, Remainder:     65534
+# ** Note: $stop    : C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v(120)
+#    Time: 5320 ns  Iteration: 0  Instance: /tb_CompDivider
+# Break in NamedBeginStat StimuliProcess at C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v line 120
+vsim -gui work.tb_CompDivider
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# End time: 00:15:32 on Mar 30,2025, Elapsed time: 35:50:53
+# Errors: 2, Warnings: 4
+# vsim -gui work.tb_CompDivider 
+# Start time: 00:15:32 on Mar 30,2025
+# Loading work.tb_CompDivider
+# Loading work.CompDivider
+# Loading work.Divisor_Register
+# Loading work.ALU
+# Loading work.Control
+# Loading work.Remainder_Register
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fscanf'.
+#    Time: 0 ns  Iteration: 0  Region: /tb_CompDivider/StimuliProcess File: C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v Line: 102
+add wave -position insertpoint sim:/tb_CompDivider/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: user  Hostname: MSI  ProcessID: 16720
+#           Attempting to use alternate WLF file "./wlft93w0yr".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft93w0yr
+add wave -position insertpoint sim:/tb_CompDivider/UUT/*
+add wave -position insertpoint sim:/tb_CompDivider/UUT/d1/*
+add wave -position insertpoint sim:/tb_CompDivider/UUT/a1/*
+add wave -position insertpoint sim:/tb_CompDivider/UUT/c1/*
+add wave -position insertpoint sim:/tb_CompDivider/UUT/r1/*
+run -all
+# Dividend:       100, Divisor:        33
+# Quotient:         3, Remainder:         1
+# Dividend:4294967295, Divisor:4294967295
+# Quotient:         1, Remainder:         0
+# Dividend:  11211379, Divisor:     38228
+# Quotient:       293, Remainder:     10575
+# Dividend:       149, Divisor:       149
+# Quotient:         1, Remainder:         0
+# Dividend:      2165, Divisor:       115
+# Quotient:        18, Remainder:        95
+# Dividend:         5, Divisor:        20
+# Quotient:         0, Remainder:         5
+# Dividend:     65534, Divisor:4294967295
+# Quotient:         0, Remainder:     65534
+# Dividend:4294967295, Divisor:4294967295
+# Quotient:         1, Remainder:         0
+# ** Note: $stop    : C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v(120)
+#    Time: 6080 ns  Iteration: 0  Instance: /tb_CompDivider
+# Break in NamedBeginStat StimuliProcess at C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v line 120
+vsim -gui work.tb_CompDivider
+# ** Error: ¶®≥©° r3`  CmDvdr
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# End time: 00:16:57 on Mar 30,2025, Elapsed time: 0:01:25
+# Errors: 2, Warnings: 4
+# vsim -gui work.tb_CompDivider 
+# Start time: 00:16:57 on Mar 30,2025
+# Loading work.tb_CompDivider
+# Loading work.CompDivider
+# Loading work.Divisor_Register
+# Loading work.ALU
+# Loading work.Control
+# Loading work.Remainder_Register
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fscanf'.
+#    Time: 0 ns  Iteration: 0  Region: /tb_CompDivider/StimuliProcess File: C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v Line: 102
+add wave -position insertpoint sim:/tb_CompDivider/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: user  Hostname: MSI  ProcessID: 16720
+#           Attempting to use alternate WLF file "./wlftbzrgcf".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftbzrgcf
+run -all
+# Dividend:       100, Divisor:        33
+# Quotient:         3, Remainder:         1
+# Dividend:4294967295, Divisor:4294967295
+# Quotient:         1, Remainder:         0
+# Dividend:  11211379, Divisor:     38228
+# Quotient:       293, Remainder:     10575
+# Dividend:       149, Divisor:       149
+# Quotient:         1, Remainder:         0
+# Dividend:      2165, Divisor:       115
+# Quotient:        18, Remainder:        95
+# Dividend:         5, Divisor:        20
+# Quotient:         0, Remainder:         5
+# Dividend:     65534, Divisor:4294967295
+# Quotient:         0, Remainder:     65534
+# Dividend:4294967295, Divisor:4294967295
+# Quotient:         1, Remainder:         0
+# Dividend:4294967294, Divisor:4294967295
+# Quotient:         0, Remainder:2147483646
+# ** Note: $stop    : C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v(120)
+#    Time: 6840 ns  Iteration: 0  Instance: /tb_CompDivider
+# Break in NamedBeginStat StimuliProcess at C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v line 120
+vsim -gui work.tb_CompDivider
+# ** Error: ¶®≥©° ù8- 
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# End time: 00:18:02 on Mar 30,2025, Elapsed time: 0:01:05
+# Errors: 2, Warnings: 4
+# vsim -gui work.tb_CompDivider 
+# Start time: 00:18:02 on Mar 30,2025
+# Loading work.tb_CompDivider
+# Loading work.CompDivider
+# Loading work.Divisor_Register
+# Loading work.ALU
+# Loading work.Control
+# Loading work.Remainder_Register
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fscanf'.
+#    Time: 0 ns  Iteration: 0  Region: /tb_CompDivider/StimuliProcess File: C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v Line: 102
+add wave -position insertpoint sim:/tb_CompDivider/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: user  Hostname: MSI  ProcessID: 16720
+#           Attempting to use alternate WLF file "./wlftejbt1g".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftejbt1g
+run -all
+# Dividend:       100, Divisor:        33
+# Quotient:         3, Remainder:         1
+# Dividend:4294967295, Divisor:4294967295
+# Quotient:         1, Remainder:         0
+# Dividend:  11211379, Divisor:     38228
+# Quotient:       293, Remainder:     10575
+# Dividend:       149, Divisor:       149
+# Quotient:         1, Remainder:         0
+# Dividend:      2165, Divisor:       115
+# Quotient:        18, Remainder:        95
+# Dividend:         5, Divisor:        20
+# Quotient:         0, Remainder:         5
+# Dividend:     65534, Divisor:4294967295
+# Quotient:         0, Remainder:     65534
+# Dividend:4294967295, Divisor:4294967295
+# Quotient:         1, Remainder:         0
+# ** Note: $stop    : C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v(120)
+#    Time: 6080 ns  Iteration: 0  Instance: /tb_CompDivider
+# Break in NamedBeginStat StimuliProcess at C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v line 120
+vsim -gui work.tb_CompDivider
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©° 
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# End time: 00:19:41 on Mar 30,2025, Elapsed time: 0:01:39
+# Errors: 2, Warnings: 4
+# vsim -gui work.tb_CompDivider 
+# Start time: 00:19:41 on Mar 30,2025
+# Loading work.tb_CompDivider
+# Loading work.CompDivider
+# Loading work.Divisor_Register
+# Loading work.ALU
+# Loading work.Control
+# Loading work.Remainder_Register
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fscanf'.
+#    Time: 0 ns  Iteration: 0  Region: /tb_CompDivider/StimuliProcess File: C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v Line: 102
+add wave -position insertpoint sim:/tb_CompDivider/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: user  Hostname: MSI  ProcessID: 16720
+#           Attempting to use alternate WLF file "./wlftdcj5z4".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftdcj5z4
+add wave -position insertpoint sim:/tb_CompDivider/UUT/*
+add wave -position insertpoint sim:/tb_CompDivider/UUT/d1/*
+add wave -position insertpoint sim:/tb_CompDivider/UUT/a1/*
+add wave -position insertpoint sim:/tb_CompDivider/UUT/c1/*
+add wave -position insertpoint sim:/tb_CompDivider/UUT/r1/*
+run -all
+# Dividend:       100, Divisor:        33
+# Quotient:         3, Remainder:         1
+# Dividend:4294967295, Divisor:4294967295
+# Quotient:         1, Remainder:         0
+# Dividend:  11211379, Divisor:     38228
+# Quotient:       293, Remainder:     10575
+# Dividend:       149, Divisor:       149
+# Quotient:         1, Remainder:         0
+# Dividend:      2165, Divisor:       115
+# Quotient:        18, Remainder:        95
+# Dividend:         5, Divisor:        20
+# Quotient:         0, Remainder:         5
+# Dividend:     65534, Divisor:4294967295
+# Quotient:         0, Remainder:     65534
+# Dividend:4294967294, Divisor:4294967295
+# Quotient:         0, Remainder:2147483646
+# ** Note: $stop    : C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v(120)
+#    Time: 6080 ns  Iteration: 0  Instance: /tb_CompDivider
+# Break in NamedBeginStat StimuliProcess at C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v line 120
+# Compile of Remainder.v was successful.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+vsim -gui work.tb_CompDivider
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# End time: 00:25:03 on Mar 30,2025, Elapsed time: 0:05:22
+# Errors: 4, Warnings: 5
+# vsim -gui work.tb_CompDivider 
+# Start time: 00:25:03 on Mar 30,2025
+# Loading work.tb_CompDivider
+# Loading work.CompDivider
+# Loading work.Divisor_Register
+# Loading work.ALU
+# Loading work.Control
+# Loading work.Remainder_Register
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fscanf'.
+#    Time: 0 ns  Iteration: 0  Region: /tb_CompDivider/StimuliProcess File: C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v Line: 102
+add wave -position insertpoint sim:/tb_CompDivider/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: user  Hostname: MSI  ProcessID: 16720
+#           Attempting to use alternate WLF file "./wlft6n8nnh".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft6n8nnh
+run -all
+# Dividend:       100, Divisor:        33
+# Quotient:         3, Remainder:         1
+# Dividend:4294967295, Divisor:4294967295
+# Quotient:         1, Remainder:         0
+# Dividend:  11211379, Divisor:     38228
+# Quotient:       293, Remainder:     10575
+# Dividend:       149, Divisor:       149
+# Quotient:         1, Remainder:         0
+# Dividend:      2165, Divisor:       115
+# Quotient:        18, Remainder:        95
+# Dividend:         5, Divisor:        20
+# Quotient:         0, Remainder:         5
+# Dividend:     65534, Divisor:4294967295
+# Quotient:         0, Remainder:     65534
+# Dividend:4294967294, Divisor:4294967295
+# Quotient:         0, Remainder:4294967294
+# ** Note: $stop    : C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v(120)
+#    Time: 6080 ns  Iteration: 0  Instance: /tb_CompDivider
+# Break in NamedBeginStat StimuliProcess at C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/tb_CompDivider.v line 120
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# ** Error: ¶®≥©°
+#        Unable to replace existing ini file (C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part2/PA1_DIV.mpf).  File can not be renamed.
+# End time: 22:15:45 on Apr 22,2025, Elapsed time: 573:50:42
+# Errors: 4, Warnings: 5
