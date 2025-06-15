@@ -1,0 +1,217 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/user/Desktop/3D/PA2/Templates/Part1
+vAdder
+Z0 !s110 1746011495
+!i10b 1
+!s100 YbLG2dlX7=Lh`EJ[>PID11
+I@l_`>Wj?1BcS0_j:WK0O01
+Z1 dC:/Users/user/Desktop/3D/PA2/Templates/Part2
+w1745581237
+8C:/Users/user/Desktop/3D/PA2/Templates/Part2/Adder.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part2/Adder.v
+!i122 40
+L0 1 6
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1746011495.000000
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part2/Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part2/Adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@adder
+vALU
+R0
+!i10b 1
+!s100 n3boCHjjB^IkaHH6W[?6?1
+I1glCcTR5ad7jmKARMA;9L3
+R1
+w1745415551
+8C:/Users/user/Desktop/3D/PA2/Templates/Part2/ALU.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part2/ALU.v
+!i122 41
+L0 1 16
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part2/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part2/ALU.v|
+!i113 1
+R5
+R6
+n@a@l@u
+vALU_control
+R0
+!i10b 1
+!s100 eZ@1^jW]T<nlbi8b8=4eg2
+IQKB2S?7dhZbiahMR6zWzg3
+R1
+w1745582583
+8C:/Users/user/Desktop/3D/PA2/Templates/Part2/ALU_contral.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part2/ALU_contral.v
+!i122 42
+L0 1 27
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part2/ALU_contral.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part2/ALU_contral.v|
+!i113 1
+R5
+R6
+n@a@l@u_control
+vcontrol
+R0
+!i10b 1
+!s100 4He7gTN^i?<nhN?@PReP>2
+IW6VbG@@H]6PCh]_DQa[8k0
+R1
+w1745582305
+8C:/Users/user/Desktop/3D/PA2/Templates/Part2/control.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part2/control.v
+!i122 43
+L0 1 57
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part2/control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part2/control.v|
+!i113 1
+R5
+R6
+vDM
+!s110 1746183506
+!i10b 1
+!s100 dIIERO;6R;NAH5C1B?WSd0
+InN5A07TNRAS4@gig[zmV:1
+R1
+w1746183485
+8C:/Users/user/Desktop/3D/PA2/Templates/Part2/DM.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part2/DM.v
+!i122 50
+L0 36 29
+R2
+R3
+r1
+!s85 0
+31
+!s108 1746183506.000000
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part2/DM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part2/DM.v|
+!i113 1
+R5
+R6
+n@d@m
+vI_FormatCPU
+Z7 !s110 1746011496
+!i10b 1
+!s100 MgHj;`5=WFH:l>]2GAY;H3
+I[dlM5oIjPPnf1PLPO:=H`0
+R1
+w1745681676
+8C:/Users/user/Desktop/3D/PA2/Templates/Part2/I_FormatCPU.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part2/I_FormatCPU.v
+!i122 45
+L0 29 106
+R2
+R3
+r1
+!s85 0
+31
+Z8 !s108 1746011496.000000
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part2/I_FormatCPU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part2/I_FormatCPU.v|
+!i113 1
+R5
+R6
+n@i_@format@c@p@u
+vIM
+R7
+!i10b 1
+!s100 Az:FI8d;=U6LB80lE@e`e3
+InkMPHVm]Hfg4ki9I4ezOG2
+R1
+w1745679655
+8C:/Users/user/Desktop/3D/PA2/Templates/Part2/IM.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part2/IM.v
+!i122 46
+L0 35 20
+R2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part2/IM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part2/IM.v|
+!i113 1
+R5
+R6
+n@i@m
+vRF
+R7
+!i10b 1
+!s100 6I6AH_O]i0JIbj=YkY:Ue2
+IYdk>SAIZbkL3db6UPONbP0
+R1
+w1745679470
+8C:/Users/user/Desktop/3D/PA2/Templates/Part2/RF.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part2/RF.v
+!i122 47
+L0 35 25
+R2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part2/RF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part2/RF.v|
+!i113 1
+R5
+R6
+n@r@f
+vtb_I_FormatCPU
+!s110 1746011533
+!i10b 1
+!s100 7[SJWfCJl8Db6985F8EG92
+ILngToI?CPocePPfVN1RY23
+R1
+w1746011524
+8C:/Users/user/Desktop/3D/PA2/Templates/Part2/tb_I_FormatCPU.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part2/tb_I_FormatCPU.v
+!i122 49
+L0 49 106
+R2
+R3
+r1
+!s85 0
+31
+!s108 1746011533.000000
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part2/tb_I_FormatCPU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part2/tb_I_FormatCPU.v|
+!i113 1
+R5
+R6
+ntb_@i_@format@c@p@u
