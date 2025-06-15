@@ -1,0 +1,195 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/intelFPGA_pro/21.1/modelsim_ase/win32aloem
+vALU
+Z0 !s110 1741609485
+!i10b 1
+!s100 QaFPD>Y9kj3_^[lPzOQKM0
+IH`m3cJ<=Tk46MnPG26VEK1
+Z1 dC:/Users/user/Desktop/3D/HW1/Templates
+w1741259203
+8C:/Users/user/Desktop/3D/HW1/Templates/ALU.v
+FC:/Users/user/Desktop/3D/HW1/Templates/ALU.v
+!i122 19
+L0 1 40
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1741609485.000000
+!s107 C:/Users/user/Desktop/3D/HW1/Templates/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/HW1/Templates/ALU.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@l@u
+vALU_tb_my
+Z7 !s110 1741609486
+!i10b 1
+!s100 Bc^m_iL1e2M]1@WnSk=Jb1
+I`igG4U]j?dnP[cE[IUDTi3
+R1
+w1741258622
+8C:/Users/user/Desktop/3D/HW1/Templates/ALU_tb_my.v
+FC:/Users/user/Desktop/3D/HW1/Templates/ALU_tb_my.v
+!i122 25
+L0 1 51
+R2
+R3
+r1
+!s85 0
+31
+Z8 !s108 1741609486.000000
+!s107 C:/Users/user/Desktop/3D/HW1/Templates/ALU_tb_my.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/HW1/Templates/ALU_tb_my.v|
+!i113 1
+R5
+R6
+n@a@l@u_tb_my
+vCampALU_tb_my
+R7
+!i10b 1
+!s100 hcL0aghNzgC1kXDNNI;i60
+IB:5BgRL29cn6L:Vo?8Bk]0
+R1
+w1741259010
+8C:/Users/user/Desktop/3D/HW1/Templates/CompALU_tb_my.v
+FC:/Users/user/Desktop/3D/HW1/Templates/CompALU_tb_my.v
+!i122 26
+L0 1 41
+R2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/user/Desktop/3D/HW1/Templates/CompALU_tb_my.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/HW1/Templates/CompALU_tb_my.v|
+!i113 1
+R5
+R6
+n@camp@a@l@u_tb_my
+vCompALU
+R0
+!i10b 1
+!s100 LgK;^8UHGidUeU_]Silm?1
+IKQ[TL^E9AjlUNo;18AWz93
+R1
+w1741259204
+8C:/Users/user/Desktop/3D/HW1/Templates/CompALU.v
+FC:/Users/user/Desktop/3D/HW1/Templates/CompALU.v
+!i122 20
+L0 29 32
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/3D/HW1/Templates/CompALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/HW1/Templates/CompALU.v|
+!i113 1
+R5
+R6
+n@comp@a@l@u
+vRF
+R7
+!i10b 1
+!s100 Fi?;eJTEFJ;ZoGm^mT]fX1
+I96gNQ3`McRdo;03fG^h0b0
+R1
+w1741259205
+8C:/Users/user/Desktop/3D/HW1/Templates/RF.v
+FC:/Users/user/Desktop/3D/HW1/Templates/RF.v
+!i122 21
+L0 29 18
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/3D/HW1/Templates/RF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/HW1/Templates/RF.v|
+!i113 1
+R5
+R6
+n@r@f
+vtb_ALU
+R7
+!i10b 1
+!s100 V7aAzE=dR3CKdjiI<fPK<1
+I_kbX`]zb5kbIiFz5SID9[2
+R1
+Z9 w1741168624
+8C:/Users/user/Desktop/3D/HW1/Templates/tb_ALU.v
+FC:/Users/user/Desktop/3D/HW1/Templates/tb_ALU.v
+!i122 22
+L0 40 78
+R2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/user/Desktop/3D/HW1/Templates/tb_ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/HW1/Templates/tb_ALU.v|
+!i113 1
+R5
+R6
+ntb_@a@l@u
+vtb_CompALU
+R7
+!i10b 1
+!s100 ><`DgU657M;?VojWO]SFA2
+I_IX[@82XZ_6iDQ7@KzzbS2
+R1
+R9
+8C:/Users/user/Desktop/3D/HW1/Templates/tb_CompALU.v
+FC:/Users/user/Desktop/3D/HW1/Templates/tb_CompALU.v
+!i122 23
+L0 43 77
+R2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/user/Desktop/3D/HW1/Templates/tb_CompALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/HW1/Templates/tb_CompALU.v|
+!i113 1
+R5
+R6
+ntb_@comp@a@l@u
+vtb_RF
+R7
+!i10b 1
+!s100 Z2j>:hc3MN?Ozm@K`?n5V3
+Iha3VO719P9Hm4H1RA[8GM3
+R1
+R9
+8C:/Users/user/Desktop/3D/HW1/Templates/tb_RF.v
+FC:/Users/user/Desktop/3D/HW1/Templates/tb_RF.v
+!i122 24
+L0 42 74
+R2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/user/Desktop/3D/HW1/Templates/tb_RF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/HW1/Templates/tb_RF.v|
+!i113 1
+R5
+R6
+ntb_@r@f
