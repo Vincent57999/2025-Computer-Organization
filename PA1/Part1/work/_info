@@ -1,0 +1,149 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/user/Desktop/thematic/ic_contest/2020cp
+vALU
+Z0 !s110 1743129743
+!i10b 1
+!s100 QUO5^:LJmBLcVY[BHm[e:1
+IA@XJ;cce0dK:Wh55Y7n[N3
+Z1 dC:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1
+w1742567844
+8C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/ALU.v
+FC:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/ALU.v
+!i122 63
+L0 1 17
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1743129743.000000
+!s107 C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/ALU.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@l@u
+vCompMultiplier
+!s110 1743129742
+!i10b 1
+!s100 j?MJjBe_4l5FQ?WALmZED3
+IoBmb7Lm]IQBC::PIlWT1B2
+R1
+w1742567842
+8C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/CompMultiplier.v
+FC:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/CompMultiplier.v
+!i122 61
+L0 1 52
+R2
+R3
+r1
+!s85 0
+31
+Z7 !s108 1743129742.000000
+!s107 C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/CompMultiplier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/CompMultiplier.v|
+!i113 1
+R5
+R6
+n@comp@multiplier
+vControl
+!s110 1743130051
+!i10b 1
+!s100 LYNIe3ZI>ZTQFIFYQ4@hZ1
+IebdGoj3BCHS07i?5E93bd2
+R1
+w1743130043
+8C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/Control.v
+FC:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/Control.v
+!i122 68
+L0 1 39
+R2
+R3
+r1
+!s85 0
+31
+!s108 1743130051.000000
+!s107 C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/Control.v|
+!i113 1
+R5
+R6
+n@control
+vMultiplicand_Register
+R0
+!i10b 1
+!s100 5j6nZoe0LZnoIH9n8BZV81
+I;2g9XX6`::P47N]GRiEki3
+R1
+w1742567899
+8C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/Multiplicand.v
+FC:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/Multiplicand.v
+!i122 65
+L0 1 18
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/Multiplicand.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/Multiplicand.v|
+!i113 1
+R5
+R6
+n@multiplicand_@register
+vProduct_Register
+R0
+!i10b 1
+!s100 V4?6K_SPco8YCoc<?TaZW0
+I1TShMa`BHoT69TK4_;efY0
+R1
+w1742567843
+8C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/Product.v
+FC:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/Product.v
+!i122 66
+L0 1 22
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/Product.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/Product.v|
+!i113 1
+R5
+R6
+n@product_@register
+vtb_CompMultiplier
+R0
+!i10b 1
+!s100 dWb6@iHe@1oo2UQSi>h7l1
+IZTEQ_;:zmJYYMB3j=oY8g0
+R1
+w1742288843
+8C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/tb_CompMultiplier.v
+FC:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/tb_CompMultiplier.v
+!i122 62
+L0 40 89
+R2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/tb_CompMultiplier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA1/Templates/Templates/Part1/tb_CompMultiplier.v|
+!i113 1
+R5
+R6
+ntb_@comp@multiplier
