@@ -1,0 +1,217 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/user/Desktop/3D/PA2/Templates/Part3
+vAdder
+Z0 !s110 1746183765
+!i10b 1
+!s100 g@6NbCgg<Y<Uh5KUUaD@h3
+Im?gNgONCCaRYMYA0C8N1Q1
+Z1 dC:/Users/user/Desktop/3D/PA2/Templates/Part4
+w1745596209
+8C:/Users/user/Desktop/3D/PA2/Templates/Part4/Adder.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part4/Adder.v
+!i122 82
+L0 1 6
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1746183765.000000
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part4/Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part4/Adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@adder
+vALU
+R0
+!i10b 1
+!s100 A=ae<5F5^d2?gFE8m0XCK2
+I;MV`k_4m6Y:MHn8QDmcIY1
+R1
+w1745675924
+8C:/Users/user/Desktop/3D/PA2/Templates/Part4/ALU.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part4/ALU.v
+!i122 83
+L0 1 29
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part4/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part4/ALU.v|
+!i113 1
+R5
+R6
+n@a@l@u
+vALU_control
+R0
+!i10b 1
+!s100 A41T`0oobB;H4WT]jImU60
+IzX70G=OAP8IjX5_XT>DmH2
+R1
+w1745679675
+8C:/Users/user/Desktop/3D/PA2/Templates/Part4/ALU_contral.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part4/ALU_contral.v
+!i122 84
+L0 1 49
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part4/ALU_contral.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part4/ALU_contral.v|
+!i113 1
+R5
+R6
+n@a@l@u_control
+vcontrol
+R0
+!i10b 1
+!s100 =a1Fm89aa^Y0L_R@mT1Pl0
+I4A^]2en`:B9cE5a<2hYG13
+R1
+w1746000640
+8C:/Users/user/Desktop/3D/PA2/Templates/Part4/control.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part4/control.v
+!i122 85
+L0 1 153
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part4/control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part4/control.v|
+!i113 1
+R5
+R6
+vDM
+R0
+!i10b 1
+!s100 cL[9RDFkzk;[_6i67XGS]3
+ILUMgo6k^6b_c[E9F8e88Z1
+R1
+w1746183744
+8C:/Users/user/Desktop/3D/PA2/Templates/Part4/DM.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part4/DM.v
+!i122 86
+L0 36 28
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part4/DM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part4/DM.v|
+!i113 1
+R5
+R6
+n@d@m
+vIM
+R0
+!i10b 1
+!s100 Az:FI8d;=U6LB80lE@e`e3
+Io^BS1<nKDJ7b@K@FFlM562
+R1
+w1745679655
+8C:/Users/user/Desktop/3D/PA2/Templates/Part4/IM.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part4/IM.v
+!i122 87
+L0 35 20
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part4/IM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part4/IM.v|
+!i113 1
+R5
+R6
+n@i@m
+vRF
+R0
+!i10b 1
+!s100 6I6AH_O]i0JIbj=YkY:Ue2
+IjM8fXK9EALn6konA>zeM[2
+R1
+w1745679470
+8C:/Users/user/Desktop/3D/PA2/Templates/Part4/RF.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part4/RF.v
+!i122 88
+L0 35 25
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part4/RF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part4/RF.v|
+!i113 1
+R5
+R6
+n@r@f
+vSimpleCPU
+R0
+!i10b 1
+!s100 79c<5g1Yn11YaYWgfAG>Y3
+IJJWb8Ge_NHNkVKQnZ]HC^3
+R1
+w1746074391
+8C:/Users/user/Desktop/3D/PA2/Templates/Part4/SimpleCPU.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part4/SimpleCPU.v
+!i122 89
+L0 29 122
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part4/SimpleCPU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part4/SimpleCPU.v|
+!i113 1
+R5
+R6
+n@simple@c@p@u
+vtb_SimpleCPU
+R0
+!i10b 1
+!s100 el<BN8NI9b>:kN>dji;k61
+I6A6AlQ9zXza1:`cT?Jc1@3
+R1
+w1745638669
+8C:/Users/user/Desktop/3D/PA2/Templates/Part4/tb_SimpleCPU.v
+FC:/Users/user/Desktop/3D/PA2/Templates/Part4/tb_SimpleCPU.v
+!i122 90
+L0 49 106
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/3D/PA2/Templates/Part4/tb_SimpleCPU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/3D/PA2/Templates/Part4/tb_SimpleCPU.v|
+!i113 1
+R5
+R6
+ntb_@simple@c@p@u
