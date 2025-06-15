@@ -1,0 +1,50 @@
+C:/Users/user/Desktop/3D/HW1/Templates/CompALU.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/HW1/Templates/CompALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module CompALU
+
+Top level modules:
+	CompALU
+
+} {} {}} C:/Users/user/Desktop/3D/HW1/Templates/tb_RF.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/HW1/Templates/tb_RF.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module tb_RF
+
+Top level modules:
+	tb_RF
+
+} {} {}} C:/Users/user/Desktop/3D/HW1/Templates/ALU.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/HW1/Templates/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/user/Desktop/3D/HW1/Templates/tb_CompALU.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/HW1/Templates/tb_CompALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module tb_CompALU
+
+Top level modules:
+	tb_CompALU
+
+} {} {}} C:/Users/user/Desktop/3D/HW1/Templates/CompALU_tb_my.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/HW1/Templates/CompALU_tb_my.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module CampALU_tb_my
+
+Top level modules:
+	CampALU_tb_my
+
+} {} {}} C:/Users/user/Desktop/3D/HW1/Templates/tb_ALU.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/HW1/Templates/tb_ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module tb_ALU
+
+Top level modules:
+	tb_ALU
+
+} {} {}} C:/Users/user/Desktop/3D/HW1/Templates/RF.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/3D/HW1/Templates/RF.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module RF
+
+Top level modules:
+	RF
+
+} {} {}}
